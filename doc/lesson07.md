@@ -74,8 +74,8 @@ GROUP BY u.id
     - [Extension Model](https://junit.org/junit5/docs/current/user-guide/#extensions)
     - [A Guide to JUnit 5](http://www.baeldung.com/junit-5)
     - [Migrating from JUnit 4](http://www.baeldung.com/junit-5-migration)
-    - [Before and After Test Execution Callbacks](https://junit.org/junit5/docs/snapshot/user-guide/#extensions-lifecycle-callbacks-before-after-execution)
-    - [Conditional Test Execution](https://junit.org/junit5/docs/snapshot/user-guide/#writing-tests-conditional-execution)
+    - [Before and After test Execution Callbacks](https://junit.org/junit5/docs/snapshot/user-guide/#extensions-lifecycle-callbacks-before-after-execution)
+    - [Conditional test Execution](https://junit.org/junit5/docs/snapshot/user-guide/#writing-tests-conditional-execution)
     - [Third party Extensions](https://github.com/junit-team/junit5/wiki/Third-party-Extensions)
     - [Реализация assertThat](https://stackoverflow.com/questions/43280250)
 
@@ -176,7 +176,7 @@ hamcrest-all используется в проверках `RootControllerTest`
   -  <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#core-convert">Spring Type Conversion</a>
   -  <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#format">Spring Field Formatting</a>
   -  <a href="http://stackoverflow.com/questions/13048368/difference-between-spring-mvc-formatters-and-converters">Difference between Spring MVC formatters and converters</a>
-- 4: Протестировать `MealRestController` (SoapUi, curl, IDEA Test RESTful Web Service, Postman). Запросы `curl` занести в отдельный `md` файл (либо `README.md`)
+- 4: Протестировать `MealRestController` (SoapUi, curl, IDEA test RESTful Web Service, Postman). Запросы `curl` занести в отдельный `md` файл (либо `README.md`)
   
 **На следующем занятии используется JavaScript/jQuery. Если у вас там пробелы, <a href="https://github.com/JavaOPs/topjava#html-javascript-css">пройдите его основы</a>**
 

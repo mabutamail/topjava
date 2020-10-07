@@ -12,7 +12,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
             выбор реализации пула коннектов. Особое внимание уделяется работе с базой: через Spring JDBC, Spring ORM и
             Spring Data Jpa.
 -   Используются самые востребованные на сегодняшний момент фреймворки: Maven, Spring Security 4
-            вместе с Spring Security Test, наиболее удобный для работы с базой проект Spring Data Jpa, библиотека логирования logback, реализующая SLF4J, повсеместно используемый Bootstrap и jQuery.
+            вместе с Spring Security test, наиболее удобный для работы с базой проект Spring Data Jpa, библиотека логирования logback, реализующая SLF4J, повсеместно используемый Bootstrap и jQuery.
 
 #### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
 
@@ -28,7 +28,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Слои приложения. Создание каркаса приложения.
 -  Обзор Spring Framework. Spring Context.
 -  Тестирование через JUnit.
--  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFai1veG9qaFZlZ2s/view">Spring Test</a>
+-  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFai1veG9qaFZlZ2s/view">Spring test</a>
 -  Базы данных. PostgreSQL. Обзор NoSQL и Java persistence solution без ORM.
 -  Настройка Database в IDEA.
 -  Скрипты инициализации базы. Spring Jdbc Template.
@@ -60,7 +60,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Spring Security
 -  Spring Binding/Validation
 -  Работа с datatables через Ajax.
--  Spring Security Test
+-  Spring Security test
 - [Кастомизация JSON (@JsonView) и валидации (groups)](https://drive.google.com/open?id=0B9Ye2auQ_NsFRTFsTjVHR2dXczA)
 -  Encoding password
 -  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFNDlPZGdUNThzNUU/view">CSRF (добавление в проект защиты от межсайтовой подделки запроса)</a>
