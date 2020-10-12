@@ -13,7 +13,7 @@ Java Enterprise Online Project
 
 ## <a href="description.md">Описание и план проекта</a>
 ### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
-### [Изменения проекта (Release Notes)](ReleaseNotes.md)
+### [Изменения проекта (Release Notes)](doc/ReleaseNotes.md)
 ### <a href="https://github.com/JavaOPs/topjava/wiki">Требования к участникам, Wiki</a>
 ### <a href="cv.md">Составление резюме, подготовка к интервью, поиск работы</a>
 
