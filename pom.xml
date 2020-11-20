@@ -257,6 +257,7 @@
                     <version>${slf4j.version}</version>
                     <scope>runtime</scope>
                 </dependency>
+
             </dependencies>
             <activation>
                 <activeByDefault>true</activeByDefault>
