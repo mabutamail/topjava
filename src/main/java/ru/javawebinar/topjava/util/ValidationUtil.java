@@ -7,7 +7,6 @@ import javax.validation.*;
 import java.util.Set;
 
 public class ValidationUtil {
-
     private static final Validator validator;
 
     static {
