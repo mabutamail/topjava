@@ -1,16 +1,19 @@
-var ctx;
+var mealAjaxUrl = "profile/meals/";
 
-function updateFilteredTable() {
-    $.ajax({
-        type: "GET",
-        url: "profile/meals/filter",
-        data: $("#filter").serialize()
-    }).done(updateTableByData);
-}
+var ctx = {
+    ajaxUrl: mealAjaxUrl,
+    updateTable: function () {
+        $.ajax({
+            type: "GET",
+            url: mealAjaxUrl + "filter",
+            data: $("#filter").serialize()
+        }).done(updateTableByData);
+    }
+};
 
 function clearFilter() {
     $("#filter")[0].reset();
-    $.get("profile/meals/", updateTableByData);
+    $.get(mealAjaxUrl, updateTableByData);
 }
 
 // http://api.jquery.com/jQuery.ajax/#using-converters
